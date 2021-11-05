@@ -1,9 +1,9 @@
 # BGP_2021_B
 Big Geodata Processing -2021 - Group B
 
-Group project with the goal to predict the observer intensity (defined as the number of observers per 1km^2-block and per hour/per week) in time or in space, based the Citizen Science project waarneming.nl.
+Group project with the goal to predict the observer intensity (defined as the number of observers per 1km^2-block and per hour/per week) in time or in space, based n data from the Citizen Science project waarneming.nl.
 
-The data was retrieved from the following data base: \
+The data was provided through the following data base: \
 host: gip.itc.utwente.nl\
 port: 5434\
 database: c211\

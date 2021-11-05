@@ -3,12 +3,12 @@ Big Geodata Processing -2021 - Group B
 
 Group project with the goal to predict the observer intensity (defined as the number of observers per 1km^2-block and per hour/per week) in time or in space, based the Citizen Science project waarneming.nl.
 
-The data was retrieved from the following data base:
-host: gip.itc.utwente.nl
-port: 5434
-database: c211
-user: sxxxxxx
-password: xxxxxx
+The data was retrieved from the following data base: \
+host: gip.itc.utwente.nl\
+port: 5434\
+database: c211\
+user: sxxxxxx\
+password: xxxxxx\
 
 ### Instructions
 1. The three notebooks *daily_observer_intensity*, *weekly_observer_intensity* and *monthly_observer_intensity* prepare the original datasets. Each one of the notebooks creates a new single table with all the fields required for further processing in the indicated temporal resolution.
